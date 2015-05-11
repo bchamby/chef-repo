@@ -17,5 +17,3 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-
-# Brad has added a line to the end of the file
